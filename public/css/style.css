@@ -1,0 +1,226 @@
+.fa-btn {
+margin-right: 6px;
+
+}
+#pocetak{
+text-align: center;
+color: #828282;
+font-size: 1.3vw;
+}
+#desno{
+float: right;
+margin:0 3px 0 3px;
+text-decoration-color: white;
+}
+.search{
+width: 30%;
+padding: 7px;
+border:1px solid #c0c1c4;
+border-radius: 3px;
+
+}
+.ui-autocomplete{
+position: relative;
+top:150px;
+left: 200px;
+}
+.inline{
+display: inline;
+}
+#center{
+text-align: center;
+background-color: #bcf2c3;
+color: #05510f;
+}
+.wrap{
+overflow:hidden;
+max-width:100px;
+white-space : nowrap;
+text-align: center;
+}
+.crveno{
+background-color: white;
+color:#767a77;
+text-align: center;
+padding: 5px;
+border: 1px solid #e86666;
+margin: auto;
+}
+.crveno:hover{
+background-color: #e86666;
+color: white;
+}
+.naslov{
+text-align: center;
+background-color: #f7f7f7;
+color: #828282;
+padding:0.7%;
+font-family: inherit;
+font-weight: 250;
+line-height: 1.1;
+
+}
+.zeleno{
+background-color: white;
+color:#767a77;
+text-align: center;
+padding: 3px;
+border: 1px solid #58bc61;
+margin: auto;
+}
+.zeleno:hover{
+background-color:#32ad51;
+color:white;
+}
+.textSredina{
+text-align: center;
+}
+.slika{
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+.siva{
+color: #2e2f30;
+}
+.crvenaPoruka{
+color: #a00e0e;
+}
+.zelenaPoruka{
+color: #4a8244;
+}
+.primio{
+background-color: green;
+}
+.nijePrimio{
+background-color: red;
+}
+#sredrina{
+text-align: center;
+}
+.sredina th{
+text-align: center;
+}
+.btn-primary {
+border-radius: 0px !important;
+}
+.btn-success{
+border-radius: 0px !important;
+}
+.btn-warning{
+border-radius: 0px !important;
+background-color: #4b7a91 !important;
+border:1px solid #4b7a91 !important;
+}
+.btn-warning:hover{
+background-color: #1d3947 !important;
+}
+.btn-danger{
+border-radius: 0px !important;
+}
+.btn-secondary{
+border-radius: 0px !important;
+width: 33%;
+}
+.btn-link{
+border-radius: 0px !important;
+color:#828282 !important;
+border: 1px solid #828282 !important;
+}
+.btn-link:hover{
+background-color:#828282 !important;
+color:white !important;
+}
+.margina{
+margin-right: 5px !important;
+}
+#sredina {
+#inner {
+display: inline-block;
+}
+}
+#outer {
+width: 100%;
+text-align: center;
+}
+#tezina{
+width: 25%;
+}
+.zaglavlje{
+display: inline-block;
+padding-top: 50px;
+margin:20px;
+margin-bottom: 0;
+font-family: Gill Sans Extrabold, sans-serif !important;
+color:gray;
+}
+.slikaZaglavlje{
+
+}
+.dugmeStampa{
+color: white !important;
+background-color: white;
+border-color: white;
+display: inline-block;
+padding: 6px 35px;
+margin-bottom: 0;
+font-size: 14px;
+font-weight: 400;
+text-align: center;
+white-space: nowrap;
+vertical-align: middle;
+-ms-touch-action: manipulation;
+touch-action: manipulation;
+cursor: pointer;
+border: 1px solid #337ab7;
+}
+.doleDesno{
+position: absolute;
+bottom:10%;
+right: 52%;
+}
+.doleDesno2{
+position: absolute;
+bottom:10%;
+right: 10%;
+}
+.doleDesno1{
+position: absolute;
+bottom:5%;
+right: 14%;
+}
+textarea {
+resize: both !important;
+}
+.navbar-text{
+margin-top: 20px !important;
+}
+#home_time{
+position:absolute;
+bottom: 10px;
+right: 15px;
+}
+.sat{
+color: #4a4b4c;
+font-size: 1.5vw;
+}
+.divSat{
+position: absolute;
+right: 10px;
+bottom: 10px;
+}
+a:hover{
+text-decoration: none !important;
+}
+.inline{
+color:#828282;
+}
+.form-horizontal .form-group{
+margin-left: 0 !important;
+}
+#napomena{
+background-color: #d9534f;
+color: white;
+width: 50%;
+border-color: white;
+}
